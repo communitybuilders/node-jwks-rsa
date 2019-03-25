@@ -1,4 +1,4 @@
-declare module 'jwks-rsa' {
+declare module '@cbar/jwks-rsa' {
 
   import * as ExpressJwt from "express-jwt";
 
